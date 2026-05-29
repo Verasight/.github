@@ -26,7 +26,7 @@ Each public data release keeps findings, questionnaire text, and methodology not
 
 - Verasight's website is the main home for company, product, and contact information.
 - The Data Library presents key findings from Verasight survey research.
-- Report pages provide wave-specific instruments, methodology, and source materials.
+- Report pages provide report-specific instruments, methodology, and source materials.
 - GitHub repositories provide structured data-release materials and research tooling when a public file format is useful.
 
 ## Public Repositories
