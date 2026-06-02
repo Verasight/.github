@@ -35,9 +35,17 @@ Verasight repositories may include:
 
 | Repository | Purpose |
 |---|---|
-| `verasight-methodology` | Shared public documentation for panel construction, weighting, quality checks, and reporting conventions. |
-| `verasight-report-variety10126` | Report-specific materials for report `variety10126`. |
-| `verasight-data-releases` | Index of public Verasight data releases and report-level metadata. |
+| [`verasight-methodology`](https://github.com/Verasight/verasight-methodology) | Shared public documentation for panel construction, weighting, quality checks, and reporting conventions. |
+| [`verasight-data-releases`](https://github.com/Verasight/verasight-data-releases) | Index of public Verasight data releases and report-level metadata. |
+| [`verasight-report-variety10126`](https://github.com/Verasight/verasight-report-variety10126) | Report-specific materials for report `variety10126`. |
+
+## How To Use This Org
+
+- Start with [`verasight-data-releases`](https://github.com/Verasight/verasight-data-releases) to find a report and its current publication status.
+- Use `verasight-report-*` repositories for report-specific methodology, questionnaire text, toplines, codebooks, citation metadata, and reuse terms.
+- Use [`verasight-methodology`](https://github.com/Verasight/verasight-methodology) for shared background on Verasight survey practices.
+- Use [data.verasight.io](https://data.verasight.io/) for curated topic pages and readable Data Library summaries.
+- Use [reports.verasight.io](https://reports.verasight.io/) as the official source-report destination.
 
 ## Data-Release Standard
 
