@@ -7,13 +7,13 @@ Verasight publishes survey research and public data resources.
 - Website: <https://www.verasight.io/>
 - Reports: <https://www.verasight.io/reports>
 - Data Library: <https://data.verasight.io/>
-- Data releases: <https://github.com/Verasight/verasight-data-releases>
 
-## Repositories
+## Start Here
 
-- `verasight-data-releases`: index of public report repositories.
-- `verasight-report-*`: report-specific aggregate files, questionnaire text, methodology notes, citation metadata, and reuse terms.
-- `verasight-methodology`: shared public methodology and reuse notes.
+- [`verasight-data-releases`](https://github.com/Verasight/verasight-data-releases): index of all public report repositories.
+- [`verasight-methodology`](https://github.com/Verasight/verasight-methodology): shared public methodology, citation guidance, and reuse notes.
+- [`verasight-report-variety10126`](https://github.com/Verasight/verasight-report-variety10126): an example report repository.
+- `verasight-report-*`: per-report aggregate files, questionnaire text, methodology notes, citation metadata, and reuse terms.
 
 ## Data
 
