@@ -18,6 +18,7 @@ Verasight publishes survey research and public data resources.
 
 ## Latest report releases
 
+- [APSA Omnibus Survey #2026-153](https://github.com/Verasight/verasight-report-2026-153)
 - [September Verasight National Survey: Current Events and Prediction Markets](https://github.com/Verasight/verasight-report-2026-243)
 - [AOM Omnibus](https://github.com/Verasight/verasight-report-2026-152)
 - [JSM and Quirk's Omnibus Survey](https://github.com/Verasight/verasight-report-2026-206)
